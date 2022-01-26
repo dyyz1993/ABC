@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-26T05:31:16.654Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="FkYLMxbGELy9xBuiMvkN" version="16.2.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-01-26T05:34:05.447Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="iR27OogvwX2O3o3GcRlP" version="16.2.2" type="github" pages="3">
   <diagram id="Er3HwoQmXPOk7LPRZfEu" name="Page-1">
     <mxGraphModel dx="2670" dy="1170" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -112,7 +112,7 @@
         <mxCell id="KaDSGbvBvAlYeUiwF3W1-60" value="复用次数多的代码" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="KaDSGbvBvAlYeUiwF3W1-55">
           <mxGeometry x="50.55555555555556" y="23.863636363636363" width="72.22222222222223" height="47.72727272727273" as="geometry" />
         </mxCell>
-        <mxCell id="KaDSGbvBvAlYeUiwF3W1-62" value="互娱通用移动端组件库方案" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="KaDSGbvBvAlYeUiwF3W1-62" value="通用移动端组件库搭建方案" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="515" y="750" width="195" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KaDSGbvBvAlYeUiwF3W1-117" value="" style="group" vertex="1" connectable="0" parent="1">
