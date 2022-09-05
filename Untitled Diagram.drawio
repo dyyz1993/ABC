@@ -1,10 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2022-09-05T06:33:39.273Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="Hd2OFBC92LNlFzn-o2rT" version="18.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-05T06:52:10.084Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="8JjALnoyP8f0RCnkemzd" version="18.1.3" type="github">
   <diagram id="wbaYe7P9s4XDuXlz-XJZ" name="Page-1">
-    <mxGraphModel dx="2529" dy="2247" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3039" dy="2443" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="kGQ6iBnwzE2i0ThxCA0L-56" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="kGQ6iBnwzE2i0ThxCA0L-81" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="60" y="-420" width="760" height="980" as="geometry" />
+        </mxCell>
+        <mxCell id="kGQ6iBnwzE2i0ThxCA0L-78" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-755" width="250" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="kGQ6iBnwzE2i0ThxCA0L-76" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="-10" width="170" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="kGQ6iBnwzE2i0ThxCA0L-72" value="" style="rhombus;whiteSpace=wrap;html=1;dashed=1;fontSize=12;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-436.5" y="-10" width="243" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="kGQ6iBnwzE2i0ThxCA0L-68" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="860" y="210" width="310" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="kGQ6iBnwzE2i0ThxCA0L-67" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="850" y="-30" width="310" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="kGQ6iBnwzE2i0ThxCA0L-56" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="-190" width="560" height="430" as="geometry" />
         </mxCell>
         <mxCell id="kGQ6iBnwzE2i0ThxCA0L-9" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
@@ -42,11 +60,11 @@
         <mxCell id="kGQ6iBnwzE2i0ThxCA0L-10" value="免费吃瓜群" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="400" y="90" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kGQ6iBnwzE2i0ThxCA0L-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="kGQ6iBnwzE2i0ThxCA0L-11" target="kGQ6iBnwzE2i0ThxCA0L-49">
+        <mxCell id="kGQ6iBnwzE2i0ThxCA0L-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="kGQ6iBnwzE2i0ThxCA0L-11" target="kGQ6iBnwzE2i0ThxCA0L-69">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kGQ6iBnwzE2i0ThxCA0L-11" value="吃瓜人" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="-150" y="40" width="30" height="60" as="geometry" />
+          <mxGeometry x="-330" y="40" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kGQ6iBnwzE2i0ThxCA0L-12" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
           <mxGeometry x="250" y="-120" width="440" height="140" as="geometry" />
@@ -88,7 +106,7 @@
           <mxGeometry x="960" y="80" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kGQ6iBnwzE2i0ThxCA0L-32" value="审核员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="220" width="30" height="60" as="geometry" />
+          <mxGeometry x="1010" y="235" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kGQ6iBnwzE2i0ThxCA0L-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="kGQ6iBnwzE2i0ThxCA0L-37">
           <mxGeometry relative="1" as="geometry">
@@ -106,7 +124,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="kGQ6iBnwzE2i0ThxCA0L-37" value="群发社群" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="kGQ6iBnwzE2i0ThxCA0L-37" value="群发&lt;br&gt;带软广的吃瓜资料" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="930" y="-115" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kGQ6iBnwzE2i0ThxCA0L-42" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontSize=12;" edge="1" parent="1">
@@ -174,6 +192,30 @@
         </mxCell>
         <mxCell id="kGQ6iBnwzE2i0ThxCA0L-64" value="外部社群" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="420" y="-360" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kGQ6iBnwzE2i0ThxCA0L-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="kGQ6iBnwzE2i0ThxCA0L-69" target="kGQ6iBnwzE2i0ThxCA0L-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kGQ6iBnwzE2i0ThxCA0L-69" value="微信号承接外部用户" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;dashed=1;fontSize=12;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="40" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kGQ6iBnwzE2i0ThxCA0L-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="kGQ6iBnwzE2i0ThxCA0L-73" target="kGQ6iBnwzE2i0ThxCA0L-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kGQ6iBnwzE2i0ThxCA0L-73" value="外部导流" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;dashed=1;fontSize=12;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="50" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kGQ6iBnwzE2i0ThxCA0L-75" value="贴吧、付费、抖音视频" style="ellipse;whiteSpace=wrap;html=1;dashed=1;fontSize=12;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="155" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kGQ6iBnwzE2i0ThxCA0L-79" value="用户自行转发" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="490" y="-230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kGQ6iBnwzE2i0ThxCA0L-82" value="&lt;ol&gt;&lt;li&gt;通过测算，得到一个吃瓜号，进入多少个群，一天能产出多少吃瓜资料&lt;/li&gt;&lt;li&gt;多少个吃瓜群，多少个用户，付费群和免费群，一天带来多少新的用户？&lt;/li&gt;&lt;li&gt;不同渠道（付费和免费）的付费用户的转化率？&lt;br&gt;&lt;/li&gt;&lt;li&gt;维护人员的人力成本&lt;/li&gt;&lt;li&gt;得到投入和产出，测算市场规模&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="90" y="450" width="700" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="kGQ6iBnwzE2i0ThxCA0L-83" value="&lt;b&gt;模型测算&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="85" y="400" width="105" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
